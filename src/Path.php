@@ -27,7 +27,7 @@ use Webmozart\Assert\Assert;
  * @author Bernhard Schussek <bschussek@gmail.com>
  * @author Thomas Schulz <mail@king2500.net>
  */
-final class Path
+class Path
 {
     /**
      * The number of buffer entries that triggers a cleanup operation.

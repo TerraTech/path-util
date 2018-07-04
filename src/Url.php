@@ -24,7 +24,7 @@ use Webmozart\Assert\Assert;
  * @author Bernhard Schussek <bschussek@gmail.com>
  * @author Claudio Zizza <claudio@budgegeria.de>
  */
-final class Url
+class Url
 {
     /**
      * Turns a URL into a relative path.
